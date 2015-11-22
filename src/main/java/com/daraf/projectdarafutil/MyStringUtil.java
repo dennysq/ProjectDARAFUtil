@@ -13,6 +13,8 @@ public class MyStringUtil {
     
     public void asText()
     {}
+    public void dsad()
+    {}
     
     //Esto es una prueba
     //pruebbjaa
