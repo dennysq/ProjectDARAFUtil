@@ -11,4 +11,7 @@ package com.daraf.projectdarafutil;
  */
 public class MyStringUtil {
     
+    public void asText()
+    {}
+    
 }
