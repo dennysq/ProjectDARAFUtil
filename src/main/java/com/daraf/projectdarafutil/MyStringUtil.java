@@ -51,6 +51,7 @@ public class MyStringUtil {
 				System.out.println(test[i]);
 
 			}
+                        System.out.println(""+NetUtil.getLocalIPAddress());
 		} catch (Exception e) { //
 			e.printStackTrace();
 		}
